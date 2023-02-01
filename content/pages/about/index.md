@@ -1,13 +1,14 @@
 +++
 title = "Über mich"
 draft = false
-image = ""
-description = ""
+image = "img_1029-2.jpg"
+description = "Über mich"
 +++
-![](/img/default-author.jpg)
+Hallo ich bin Amea und 14 Jahre alt.
 
-## My Name
+Meine Hobbys sind:
 
-mail@example.org
-
-Here should be some info about me...
+* Volleyball
+* Reiten
+* Sport
+* Fotografie
