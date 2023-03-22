@@ -1,7 +1,7 @@
 +++
 title = "Equitana 2023"
 date = "2023-03-22"
-draft = true
+draft = false
 pinned = false
 image = "img_5477.jpg"
 description = "Equitana 2023 in Essen"
