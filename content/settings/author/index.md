@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Amea Grossrieder"
-image = "/media/img_0176-kopie.jpg"
+image = "/media/img_3459-2.jpg"
 url = "/about/"
 +++
