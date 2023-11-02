@@ -9,12 +9,12 @@ Am 21.10-22.10.2023  fanden in Avenches die Schweizermeisterschaften im Horseath
 
 ![](mittel-img_0799-.jpeg)
 
-1. ![](mittel-img_0809-.jpeg)
+![](mittel-img_0809-.jpeg)
 
-   ![](mittel-img_0876-.jpeg)
+![](mittel-img_0876-.jpeg)
 
-   ![](mittel-img_2737-.jpeg)
+![](mittel-img_2737-.jpeg)
 
-   ![](mittel-img_1182-.jpeg)
+![](mittel-img_1182-.jpeg)
 
-   ![](mittel-img_0846-.jpeg)
+![](mittel-img_0846-.jpeg)
