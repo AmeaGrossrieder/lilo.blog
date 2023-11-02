@@ -1,7 +1,7 @@
 +++
 title = "Horseathlon Schweizermeisterschaft"
 date = "2023-10-25"
-draft = false
+draft = true
 pinned = false
 image = "mittel-img_2685-.jpeg"
 +++
