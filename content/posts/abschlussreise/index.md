@@ -5,6 +5,8 @@ draft = false
 pinned = false
 image = "gross-bildschirmfoto-2023-11-15-um-11.36.17-.jpeg"
 +++
+![](gross-bildschirmfoto-2023-11-15-um-11.36.17-.jpeg)
+
 Jaël und ich planen eine Abschlussreise im Mai oder Juni. Unsere Idee war zunächst, mit Fahrrädern von Marseille nach Saintes-Maries-de-la-Mer zu fahren. Allerdings sind wir nun auf die Idee eines Wanderritts gekommen und sind vollständig in der Planung vertieft.
 
 Unser aktueller Plan sieht vor, für eine Woche in den Jura zu reisen. Dort möchten wir mit meinen beiden Pferden auf einem Campingplatz mit Boxen für die Pferde übernachten und tagsüber die wunderschönen Reitwege im Jura erkunden.                                                                                                                                 Nachdem wir uns für ein ungefähres Ziel-Dorf entschieden haben, haben wir einen geeigneten Campingplatz mit Pferdeboxen gesucht. Wir haben Preise, Standort, Infrastruktur usw. verglichen und sind nun auf einen ziemlich guten Campingplatz gestossen.
