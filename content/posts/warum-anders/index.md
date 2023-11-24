@@ -1,6 +1,6 @@
 +++
 title = "Warum anders"
-date = "2023-11-10"
+date = "2023-11-24"
 draft = false
 pinned = false
 image = "bildschirmfoto-2023-11-10-um-09.49.35.jpeg"
